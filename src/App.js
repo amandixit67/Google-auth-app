@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState } from "react";
 import { auth, provider, signInWithPopup, signOut } from "./firebase";
 import "./App.css";
